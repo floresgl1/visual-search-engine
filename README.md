@@ -1,5 +1,9 @@
 # visual-search-engine
 smart visual search engine using RAG and computer vision
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6345e96 (initial project setup with structure and dependencies)
 # Visual Search Engine
 
 A smart visual search engine that allows you to search through image collections using natural language queries. Built with PyTorch, TensorFlow, OpenCV, and RAG (Retrieval-Augmented Generation).
