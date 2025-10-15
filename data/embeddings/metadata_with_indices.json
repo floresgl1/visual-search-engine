@@ -1,0 +1,252 @@
+[
+  {
+    "id": "b80d45-20120627-flute-concert",
+    "embedding_index": 0,
+    "filename": "b80d45-20120627-flute-concert.jpg",
+    "category": "unknown",
+    "description": "unknown image 0",
+    "width": 1000,
+    "height": 687,
+    "path": "..\\data\\raw\\images\\b80d45-20120627-flute-concert.jpg"
+  },
+  {
+    "id": "Beethoven.5",
+    "embedding_index": 1,
+    "filename": "Beethoven.5.jpg",
+    "category": "unknown",
+    "description": "unknown image 1",
+    "width": 750,
+    "height": 1037,
+    "path": "..\\data\\raw\\images\\Beethoven.5.jpg"
+  },
+  {
+    "id": "city_001",
+    "embedding_index": 2,
+    "filename": "city_001.jpg",
+    "category": "city",
+    "description": "city image 2",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\city_001.jpg"
+  },
+  {
+    "id": "city_006",
+    "embedding_index": 3,
+    "filename": "city_006.jpg",
+    "category": "city",
+    "description": "city image 3",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\city_006.jpg"
+  },
+  {
+    "id": "city_011",
+    "embedding_index": 4,
+    "filename": "city_011.jpg",
+    "category": "city",
+    "description": "city image 4",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\city_011.jpg"
+  },
+  {
+    "id": "city_016",
+    "embedding_index": 5,
+    "filename": "city_016.jpg",
+    "category": "city",
+    "description": "city image 5",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\city_016.jpg"
+  },
+  {
+    "id": "classical-musicians",
+    "embedding_index": 6,
+    "filename": "classical-musicians.jpg",
+    "category": "unknown",
+    "description": "unknown image 6",
+    "width": 649,
+    "height": 450,
+    "path": "..\\data\\raw\\images\\classical-musicians.jpg"
+  },
+  {
+    "id": "Classical_Music_thumbnail",
+    "embedding_index": 7,
+    "filename": "Classical_Music_thumbnail.jpg",
+    "category": "Classical",
+    "description": "Classical image 7",
+    "width": 2056,
+    "height": 1175,
+    "path": "..\\data\\raw\\images\\Classical_Music_thumbnail.jpg"
+  },
+  {
+    "id": "food_003",
+    "embedding_index": 8,
+    "filename": "food_003.jpg",
+    "category": "food",
+    "description": "food image 8",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\food_003.jpg"
+  },
+  {
+    "id": "food_008",
+    "embedding_index": 9,
+    "filename": "food_008.jpg",
+    "category": "food",
+    "description": "food image 9",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\food_008.jpg"
+  },
+  {
+    "id": "food_013",
+    "embedding_index": 10,
+    "filename": "food_013.jpg",
+    "category": "food",
+    "description": "food image 10",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\food_013.jpg"
+  },
+  {
+    "id": "food_018",
+    "embedding_index": 11,
+    "filename": "food_018.jpg",
+    "category": "food",
+    "description": "food image 11",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\food_018.jpg"
+  },
+  {
+    "id": "Mozart_family_crop",
+    "embedding_index": 12,
+    "filename": "Mozart_family_crop.jpg",
+    "category": "Mozart",
+    "description": "Mozart image 12",
+    "width": 2864,
+    "height": 3376,
+    "path": "..\\data\\raw\\images\\Mozart_family_crop.jpg"
+  },
+  {
+    "id": "nature_000",
+    "embedding_index": 13,
+    "filename": "nature_000.jpg",
+    "category": "nature",
+    "description": "nature image 13",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\nature_000.jpg"
+  },
+  {
+    "id": "nature_005",
+    "embedding_index": 14,
+    "filename": "nature_005.jpg",
+    "category": "nature",
+    "description": "nature image 14",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\nature_005.jpg"
+  },
+  {
+    "id": "nature_010",
+    "embedding_index": 15,
+    "filename": "nature_010.jpg",
+    "category": "nature",
+    "description": "nature image 15",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\nature_010.jpg"
+  },
+  {
+    "id": "nature_015",
+    "embedding_index": 16,
+    "filename": "nature_015.jpg",
+    "category": "nature",
+    "description": "nature image 16",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\nature_015.jpg"
+  },
+  {
+    "id": "people_002",
+    "embedding_index": 17,
+    "filename": "people_002.jpg",
+    "category": "people",
+    "description": "people image 17",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\people_002.jpg"
+  },
+  {
+    "id": "people_007",
+    "embedding_index": 18,
+    "filename": "people_007.jpg",
+    "category": "people",
+    "description": "people image 18",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\people_007.jpg"
+  },
+  {
+    "id": "people_012",
+    "embedding_index": 19,
+    "filename": "people_012.jpg",
+    "category": "people",
+    "description": "people image 19",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\people_012.jpg"
+  },
+  {
+    "id": "people_017",
+    "embedding_index": 20,
+    "filename": "people_017.jpg",
+    "category": "people",
+    "description": "people image 20",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\people_017.jpg"
+  },
+  {
+    "id": "tech_004",
+    "embedding_index": 21,
+    "filename": "tech_004.jpg",
+    "category": "tech",
+    "description": "tech image 21",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\tech_004.jpg"
+  },
+  {
+    "id": "tech_009",
+    "embedding_index": 22,
+    "filename": "tech_009.jpg",
+    "category": "tech",
+    "description": "tech image 22",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\tech_009.jpg"
+  },
+  {
+    "id": "tech_014",
+    "embedding_index": 23,
+    "filename": "tech_014.jpg",
+    "category": "tech",
+    "description": "tech image 23",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\tech_014.jpg"
+  },
+  {
+    "id": "tech_019",
+    "embedding_index": 24,
+    "filename": "tech_019.jpg",
+    "category": "tech",
+    "description": "tech image 24",
+    "width": 800,
+    "height": 600,
+    "path": "..\\data\\raw\\images\\tech_019.jpg"
+  }
+]
