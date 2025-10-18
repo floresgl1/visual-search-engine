@@ -1,0 +1,37 @@
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data
+data/raw/images/*
+data/processed/*
+data/embeddings/*
+
+# Git
+.git
+.gitignore
+
+# Notebooks (already processed)
+notebooks/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Models cache
+models
